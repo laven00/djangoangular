@@ -1,1 +1,3 @@
 # djangoangular
+
+finish it
